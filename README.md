@@ -1,5 +1,6 @@
 # 💫 About Me:
-Studying at gunma university, Japan.
+Currently working for [CATENAS.co](https://www.catenas.co.jp/) as Software Engineer.
+Currently studying web app, data analyze
 
 
 # 💻 Tech Stack:
