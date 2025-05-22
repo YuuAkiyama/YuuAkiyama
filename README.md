@@ -1,6 +1,6 @@
 # 💫 About Me:
-Currently working for [CATENAS.co](https://www.catenas.co.jp/) as Software Engineer.
-Currently studying web app, data analyze
+Currently working for [CATENAS.co](https://www.catenas.co.jp/) as Software Engineer.  
+Currently studying web app, data analyze.
 
 
 # 💻 Tech Stack:
